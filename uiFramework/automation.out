@@ -1,0 +1,380 @@
+2019-04-05 00:04:762 INFO  LoggerHelper :26 -Logger is configured
+2019-04-05 00:04:774 INFO  LoggerHelper :27 -Logger is configured
+2019-04-05 00:04:775 INFO  LoggerHelper :28 -Logger is configured
+2019-04-05 00:04:777 INFO  LoggerHelper :29 -Logger is configured
+2019-04-05 00:04:618 INFO  LoggerHelper :26 -Logger is configured
+2019-04-05 00:04:628 INFO  LoggerHelper :27 -Logger is configured
+2019-04-05 00:04:629 INFO  LoggerHelper :28 -Logger is configured
+2019-04-05 00:04:630 INFO  LoggerHelper :29 -Logger is configured
+2019-04-09 00:04:829 INFO  LoggerHelper :26 -Logger is configured
+2019-04-09 00:04:837 INFO  LoggerHelper :27 -Logger is configured
+2019-04-09 00:04:837 INFO  LoggerHelper :28 -Logger is configured
+2019-04-09 00:04:838 INFO  LoggerHelper :29 -Logger is configured
+2019-04-09 00:04:589 INFO  LoggerHelper :28 -Logger is configured
+2019-04-09 00:04:596 INFO  LoggerHelper :29 -Logger is configured
+2019-04-09 00:04:596 INFO  LoggerHelper :30 -Logger is configured
+2019-04-09 00:04:597 INFO  LoggerHelper :31 -Logger is configured
+2019-05-19 00:05:669 INFO  LoggerHelper :28 -Logger is configured
+2019-05-19 00:05:672 INFO  LoggerHelper :29 -Logger is configured
+2019-05-19 00:05:673 INFO  LoggerHelper :30 -Logger is configured
+2019-05-19 00:05:673 INFO  LoggerHelper :31 -Logger is configured
+2019-07-23 00:07:29 INFO  excelReader :129 -result updated
+2019-07-23 00:07:245 INFO  excelReader :129 -result updated
+2019-07-23 00:07:76 INFO  excelReader :129 -result updated
+2019-07-23 00:07:261 INFO  excelReader :129 -result updated
+2019-07-23 00:07:334 INFO  excelReader :129 -result updated
+2019-08-17 01:08:948 INFO  Retry :18 -Retrying test testLoginwith statusPASSfor the 1times.
+2019-08-17 01:08:955 INFO  Retry :18 -Retrying test testLoginwith statusPASSfor the 2times.
+2019-08-17 01:08:978 INFO  Retry :18 -Retrying test testLoginwith statusPASSfor the 1times.
+2019-08-17 01:08:978 INFO  Retry :18 -Retrying test testLoginwith statusPASSfor the 2times.
+2019-08-17 01:08:953 INFO  Retry :18 -Retrying test testLoginwith statusPASSfor the 1times.
+2019-08-17 01:08:959 INFO  Retry :18 -Retrying test testLoginwith statusPASSfor the 2times.
+2019-08-17 01:08:984 INFO  Retry :18 -Retrying test testLoginwith statusPASSfor the 1times.
+2019-08-17 01:08:984 INFO  Retry :18 -Retrying test testLoginwith statusPASSfor the 2times.
+2019-08-17 01:08:295 INFO  Retry :18 -Retrying test testLoginwith statusPASSfor the 1times.
+2019-08-17 01:08:304 INFO  Retry :18 -Retrying test testLoginwith statusPASSfor the 2times.
+2019-08-17 01:08:324 INFO  Retry :18 -Retrying test testLoginwith statusPASSfor the 1times.
+2019-08-17 01:08:324 INFO  Retry :18 -Retrying test testLoginwith statusPASSfor the 2times.
+2019-09-06 00:09:647 INFO  TestBase :116 -The driver executable does not exist: C:\Users\abhinay.sutrakar\Desktop\uiFramework\C:\Users\abhinay.sutrakar\Desktop\uiFramework\chromedriver.exe
+2019-09-06 00:09:995 INFO  TestBase :116 -The driver executable does not exist: C:\Users\abhinay.sutrakar\Desktop\uiFramework\C:\Users\abhinay.sutrakar\Desktop\uiFramework\chromedriver.exe
+2019-09-06 00:09:772 INFO  TestBase :116 -The driver executable does not exist: C:\Users\abhinay.sutrakar\Desktop\uiFramework\C:\Users\abhinay.sutrakar\Desktop\uiFramework\chromedriver.exe
+2019-09-06 09:09:569 INFO  TestBase :116 -The driver executable does not exist: C:\Users\abhinay.sutrakar\Desktop\uiFramework\C:\Users\abhinay.sutrakar\Desktop\uiFramework\chromedriver.exe
+2019-09-06 09:09:743 INFO  TestBase :116 -The driver executable does not exist: C:\Users\abhinay.sutrakar\Desktop\uiFramework\C:\Users\abhinay.sutrakar\Desktop\uiFramework\chromedriver.exe
+2019-09-06 09:09:246 INFO  TestBase :116 -The driver executable does not exist: C:\Users\abhinay.sutrakar\Desktop\uiFramework\C:\Users\abhinay.sutrakar\Desktop\uiFramework\chromedriver.exe
+2019-09-06 09:09:966 INFO  TestBase :116 -The driver executable does not exist: C:\Users\abhinay.sutrakar\Desktop\uiFramework\C:\Users\abhinay.sutrakar\Desktop\uiFramework\chromedriver.exe
+2019-09-06 09:09:626 INFO  TestBase :124 -Initialize the WebDriver193388045
+2019-09-06 09:09:650 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 09:09:662 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 09:09:667 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 10:09:805 INFO  TestBase :124 -Initialize the WebDriver193388045
+2019-09-06 10:09:815 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 10:09:825 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 10:09:837 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 10:09:284 INFO  TestBase :124 -Initialize the WebDriver193388045
+2019-09-06 10:09:292 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 10:09:301 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 10:09:306 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 10:09:739 INFO  TestBase :124 -Initialize the WebDriver193388045
+2019-09-06 10:09:746 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 10:09:755 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 10:09:760 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 11:09:344 INFO  TestBase :124 -Initialize the WebDriver193388045
+2019-09-06 11:09:357 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 11:09:369 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 11:09:376 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 11:09:95 INFO  TestBase :124 -Initialize the WebDriver193388045
+2019-09-06 11:09:103 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 11:09:111 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 11:09:116 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 11:09:535 INFO  TestBase :124 -Initialize the WebDriver193388045
+2019-09-06 11:09:549 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 11:09:558 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 11:09:566 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 11:09:438 INFO  TestBase :124 -Initialize the WebDriver193388045
+2019-09-06 11:09:454 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 11:09:465 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 11:09:469 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 11:09:287 INFO  TestBase :124 -Initialize the WebDriver193388045
+2019-09-06 11:09:299 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 11:09:309 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 11:09:316 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 12:09:689 INFO  TestBase :124 -Initialize the WebDriver193388045
+2019-09-06 12:09:702 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 12:09:716 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 12:09:724 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 12:09:96 INFO  TestBase :124 -Initialize the WebDriver2045913001
+2019-09-06 12:09:107 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 12:09:115 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 12:09:127 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 12:09:853 INFO  WaitHelper :39 -Implicit Wait has been set to :30
+2019-09-06 12:09:335 INFO  TestBase :124 -Initialize the WebDriver193388045
+2019-09-06 12:09:345 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 12:09:355 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 12:09:360 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 12:09:912 INFO  WaitHelper :39 -Implicit Wait has been set to :30
+2019-09-06 12:09:960 INFO  TestBase :124 -Initialize the WebDriver193388045
+2019-09-06 12:09:967 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 12:09:977 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 12:09:983 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 12:09:471 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 12:09:474 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 12:09:287 INFO  TestBase :124 -Initialize the WebDriver193388045
+2019-09-06 12:09:295 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 12:09:305 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 12:09:311 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 12:09:51 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 12:09:60 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 12:09:193 INFO  TestBase :124 -Initialize the WebDriver2045913001
+2019-09-06 12:09:204 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 12:09:213 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 12:09:221 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 12:09:123 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 12:09:128 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 12:09:815 INFO  TestBase :124 -Initialize the WebDriver193388045
+2019-09-06 12:09:825 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 12:09:833 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 12:09:841 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 12:09:39 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 12:09:43 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 12:09:308 INFO  TestBase :124 -Initialize the WebDriver193388045
+2019-09-06 12:09:315 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 12:09:325 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 12:09:330 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 12:09:107 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 12:09:112 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 12:09:395 INFO  WaitHelper :39 -Implicit Wait has been set to :10
+2019-09-06 13:09:02 INFO  TestBase :124 -Initialize the WebDriver193388045
+2019-09-06 13:09:09 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 13:09:22 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 13:09:27 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 13:09:53 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 13:09:59 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 13:09:845 INFO  TestBase :124 -Initialize the WebDriver193388045
+2019-09-06 13:09:854 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 13:09:860 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 13:09:866 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 13:09:712 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 13:09:717 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 13:09:37 INFO  WaitHelper :39 -Implicit Wait has been set to :10
+2019-09-06 13:09:478 INFO  TestBase :124 -Initialize the WebDriver193388045
+2019-09-06 13:09:489 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 13:09:499 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 13:09:505 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 13:09:328 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 13:09:332 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 13:09:660 INFO  WaitHelper :39 -Implicit Wait has been set to :10
+2019-09-06 13:09:353 INFO  javaScriptHelper :19 -JavaScript Executor is initiated
+2019-09-06 13:09:354 INFO  javaScriptHelper :101 -Zoom in 60%
+2019-09-06 13:09:817 INFO  TestBase :124 -Initialize the WebDriver193388045
+2019-09-06 13:09:827 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 13:09:838 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 13:09:844 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 13:09:412 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 13:09:418 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 13:09:535 INFO  javaScriptHelper :19 -JavaScript Executor is initiated
+2019-09-06 13:09:535 INFO  javaScriptHelper :94 -Zoom in 100 %
+2019-09-06 13:09:699 INFO  TestBase :124 -Initialize the WebDriver193388045
+2019-09-06 13:09:709 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 13:09:718 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 13:09:723 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 13:09:668 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 13:09:679 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 13:09:92 INFO  WaitHelper :39 -Implicit Wait has been set to :10
+2019-09-06 13:09:752 INFO  javaScriptHelper :19 -JavaScript Executor is initiated
+2019-09-06 13:09:753 INFO  javaScriptHelper :94 -Zoom in 100 %
+2019-09-06 16:09:939 INFO  TestBase :124 -Initialize the WebDriver193388045
+2019-09-06 16:09:953 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 16:09:966 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 16:09:972 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 16:09:373 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 16:09:380 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 16:09:774 INFO  WaitHelper :39 -Implicit Wait has been set to :10
+2019-09-06 16:09:254 INFO  TestBase :124 -Initialize the WebDriver193388045
+2019-09-06 16:09:264 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 16:09:275 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 16:09:281 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 16:09:31 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 16:09:41 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 16:09:411 INFO  WaitHelper :39 -Implicit Wait has been set to :10
+2019-09-06 16:09:725 INFO  TestBase :124 -Initialize the WebDriver193388045
+2019-09-06 16:09:735 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 16:09:742 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 16:09:748 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 16:09:333 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 16:09:341 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 16:09:655 INFO  WaitHelper :39 -Implicit Wait has been set to :10
+2019-09-06 16:09:552 INFO  TestBase :124 -Initialize the WebDriver467313213
+2019-09-06 16:09:568 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 16:09:577 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 16:09:585 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 16:09:592 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 16:09:596 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 16:09:538 INFO  WaitHelper :39 -Implicit Wait has been set to :10
+2019-09-06 16:09:276 INFO  TestBase :124 -Initialize the WebDriver467313213
+2019-09-06 16:09:293 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 16:09:306 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 16:09:312 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 16:09:614 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 16:09:627 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 16:09:911 INFO  WaitHelper :39 -Implicit Wait has been set to :10
+2019-09-06 16:09:533 INFO  TestBase :124 -Initialize the WebDriver193388045
+2019-09-06 16:09:544 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 16:09:556 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 16:09:562 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 16:09:570 INFO  TestBase :124 -Initialize the WebDriver2045913001
+2019-09-06 16:09:586 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 16:09:602 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 16:09:612 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 16:09:803 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 16:09:813 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 16:09:30 INFO  WaitHelper :39 -Implicit Wait has been set to :10
+2019-09-06 16:09:351 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 16:09:357 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 16:09:747 INFO  WaitHelper :39 -Implicit Wait has been set to :10
+2019-09-06 16:09:933 INFO  TestBase :124 -Initialize the WebDriver193388045
+2019-09-06 16:09:946 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 16:09:953 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 16:09:960 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 16:09:350 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 16:09:358 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 16:09:581 INFO  WaitHelper :39 -Implicit Wait has been set to :10
+2019-09-06 17:09:804 INFO  TestBase :124 -Initialize the WebDriver2045913001
+2019-09-06 17:09:812 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 17:09:828 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 17:09:836 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 17:09:03 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 17:09:17 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 17:09:477 INFO  WaitHelper :39 -Implicit Wait has been set to :10
+2019-09-06 17:09:979 INFO  TestBase :124 -Initialize the WebDriver2045913001
+2019-09-06 17:09:987 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 17:09:997 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 17:09:03 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 17:09:114 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 17:09:119 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 17:09:496 INFO  WaitHelper :39 -Implicit Wait has been set to :10
+2019-09-06 17:09:135 INFO  TestBase :124 -Initialize the WebDriver193388045
+2019-09-06 17:09:146 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 17:09:156 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 17:09:163 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 17:09:654 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 17:09:663 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 17:09:968 INFO  WaitHelper :39 -Implicit Wait has been set to :10
+2019-09-06 19:09:202 INFO  TestBase :124 -Initialize the WebDriver899929247
+2019-09-06 19:09:225 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-06 19:09:247 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 19:09:254 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 19:09:39 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-06 19:09:47 INFO  WaitHelper :142 -page Loaded..
+2019-09-06 19:09:818 INFO  WaitHelper :39 -Implicit Wait has been set to :10
+2019-09-17 20:09:42 INFO  TestBase :116 -session not created: This version of ChromeDriver only supports Chrome version 75
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'P5LAP-77PTMF2', ip: '192.168.2.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00491B43+1448771]
+	Ordinal0 [0x00415A31+940593]
+	Ordinal0 [0x003A2293+467603]
+	Ordinal0 [0x0033F27E+62078]
+	Ordinal0 [0x0033BBBD+48061]
+	Ordinal0 [0x00358D09+167177]
+	Ordinal0 [0x003588DD+166109]
+	Ordinal0 [0x00356FEB+159723]
+	Ordinal0 [0x003409F6+68086]
+	Ordinal0 [0x00341990+72080]
+	Ordinal0 [0x00341929+71977]
+	GetHandleVerifier [0x005D2E8C+1172172]
+	GetHandleVerifier [0x0052FE55+504469]
+	GetHandleVerifier [0x0052FBF0+503856]
+	Ordinal0 [0x0049C9C8+1493448]
+	GetHandleVerifier [0x0053062A+506474]
+	Ordinal0 [0x00427156+1012054]
+	Ordinal0 [0x00426FCF+1011663]
+	Ordinal0 [0x0043135B+1053531]
+	Ordinal0 [0x004314C3+1053891]
+	Ordinal0 [0x004304F5+1049845]
+	BaseThreadInitThunk [0x752C0419+25]
+	RtlGetAppContainerNamedObjectPath [0x77B8662D+237]
+	RtlGetAppContainerNamedObjectPath [0x77B865FD+189]
+
+2019-09-17 20:09:159 INFO  TestBase :116 -session not created: This version of ChromeDriver only supports Chrome version 75
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'P5LAP-77PTMF2', ip: '192.168.2.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00491B43+1448771]
+	Ordinal0 [0x00415A31+940593]
+	Ordinal0 [0x003A2293+467603]
+	Ordinal0 [0x0033F27E+62078]
+	Ordinal0 [0x0033BBBD+48061]
+	Ordinal0 [0x00358D09+167177]
+	Ordinal0 [0x003588DD+166109]
+	Ordinal0 [0x00356FEB+159723]
+	Ordinal0 [0x003409F6+68086]
+	Ordinal0 [0x00341990+72080]
+	Ordinal0 [0x00341929+71977]
+	GetHandleVerifier [0x005D2E8C+1172172]
+	GetHandleVerifier [0x0052FE55+504469]
+	GetHandleVerifier [0x0052FBF0+503856]
+	Ordinal0 [0x0049C9C8+1493448]
+	GetHandleVerifier [0x0053062A+506474]
+	Ordinal0 [0x00427156+1012054]
+	Ordinal0 [0x00426FCF+1011663]
+	Ordinal0 [0x0043135B+1053531]
+	Ordinal0 [0x004314C3+1053891]
+	Ordinal0 [0x004304F5+1049845]
+	BaseThreadInitThunk [0x752C0419+25]
+	RtlGetAppContainerNamedObjectPath [0x77B8662D+237]
+	RtlGetAppContainerNamedObjectPath [0x77B865FD+189]
+
+2019-09-17 20:09:82 INFO  TestBase :116 -session not created: This version of ChromeDriver only supports Chrome version 75
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'P5LAP-77PTMF2', ip: '192.168.2.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00491B43+1448771]
+	Ordinal0 [0x00415A31+940593]
+	Ordinal0 [0x003A2293+467603]
+	Ordinal0 [0x0033F27E+62078]
+	Ordinal0 [0x0033BBBD+48061]
+	Ordinal0 [0x00358D09+167177]
+	Ordinal0 [0x003588DD+166109]
+	Ordinal0 [0x00356FEB+159723]
+	Ordinal0 [0x003409F6+68086]
+	Ordinal0 [0x00341990+72080]
+	Ordinal0 [0x00341929+71977]
+	GetHandleVerifier [0x005D2E8C+1172172]
+	GetHandleVerifier [0x0052FE55+504469]
+	GetHandleVerifier [0x0052FBF0+503856]
+	Ordinal0 [0x0049C9C8+1493448]
+	GetHandleVerifier [0x0053062A+506474]
+	Ordinal0 [0x00427156+1012054]
+	Ordinal0 [0x00426FCF+1011663]
+	Ordinal0 [0x0043135B+1053531]
+	Ordinal0 [0x004314C3+1053891]
+	Ordinal0 [0x004304F5+1049845]
+	BaseThreadInitThunk [0x752C0419+25]
+	RtlGetAppContainerNamedObjectPath [0x77B8662D+237]
+	RtlGetAppContainerNamedObjectPath [0x77B865FD+189]
+
+2019-09-17 20:09:568 INFO  TestBase :116 -session not created: This version of ChromeDriver only supports Chrome version 75
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'P5LAP-77PTMF2', ip: '192.168.2.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00491B43+1448771]
+	Ordinal0 [0x00415A31+940593]
+	Ordinal0 [0x003A2293+467603]
+	Ordinal0 [0x0033F27E+62078]
+	Ordinal0 [0x0033BBBD+48061]
+	Ordinal0 [0x00358D09+167177]
+	Ordinal0 [0x003588DD+166109]
+	Ordinal0 [0x00356FEB+159723]
+	Ordinal0 [0x003409F6+68086]
+	Ordinal0 [0x00341990+72080]
+	Ordinal0 [0x00341929+71977]
+	GetHandleVerifier [0x005D2E8C+1172172]
+	GetHandleVerifier [0x0052FE55+504469]
+	GetHandleVerifier [0x0052FBF0+503856]
+	Ordinal0 [0x0049C9C8+1493448]
+	GetHandleVerifier [0x0053062A+506474]
+	Ordinal0 [0x00427156+1012054]
+	Ordinal0 [0x00426FCF+1011663]
+	Ordinal0 [0x0043135B+1053531]
+	Ordinal0 [0x004314C3+1053891]
+	Ordinal0 [0x004304F5+1049845]
+	BaseThreadInitThunk [0x752C0419+25]
+	RtlGetAppContainerNamedObjectPath [0x77B8662D+237]
+	RtlGetAppContainerNamedObjectPath [0x77B865FD+189]
+
+2019-09-17 20:09:585 INFO  TestBase :124 -Initialize the WebDriver899929247
+2019-09-17 20:09:600 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-17 20:09:609 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-17 20:09:617 INFO  WaitHelper :142 -page Loaded..
+2019-09-17 20:09:172 INFO  TestBase :124 -Initialize the WebDriver899929247
+2019-09-17 20:09:185 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-17 20:09:195 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-17 20:09:202 INFO  WaitHelper :142 -page Loaded..
+2019-09-18 00:09:236 INFO  TestBase :124 -Initialize the WebDriver899929247
+2019-09-18 00:09:253 INFO  WaitHelper :39 -Implicit Wait has been set to :200
+2019-09-18 00:09:267 INFO  WaitHelper :139 -waiting for page to load for :SECONDS
+2019-09-18 00:09:271 INFO  WaitHelper :142 -page Loaded..

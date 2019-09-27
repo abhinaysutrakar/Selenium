@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestNG Test Session Suite]">
+  <test thread-count="5" name="Different Feature test(failed)">
+    <parameter name="password" value="alittle"/>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="env" value="QA"/>
+    <parameter name="url" value="http://www.irctc.co.in"/>
+    <parameter name="username" value="alittle"/>
+    <classes>
+      <class name="com.uiFramework.absecompany.automation.testNG.DataProviderTest">
+        <methods>
+          <include name="gmailLoginTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.uiFramework.absecompany.automation.testNG.DataProviderTest -->
+    </classes>
+  </test> <!-- Different Feature test(failed) -->
+</suite> <!-- Failed suite [TestNG Test Session Suite] -->

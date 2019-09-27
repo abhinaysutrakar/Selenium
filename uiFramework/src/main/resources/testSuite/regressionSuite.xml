@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite">
+	<listeners>
+		<listener class-name="com.uiFramework.abscompany.automation.helper.listener.RetryListener"/>
+	</listeners>
+		<test name="FirstTest"> 
+			<classes>
+				<class name="com.uiFramework.A"/>
+			</classes>
+		</test>
+		
+		<test name="SecondTest"> 
+			<classes>
+				<class name="com.uiFramework.B"/>
+			</classes>
+		</test>
+		
+		<test name="ThirdTest"> 
+			<classes>
+				<class name="com.uiFramework.C"/>
+			</classes>
+		</test>
+		
+</suite>
+
+

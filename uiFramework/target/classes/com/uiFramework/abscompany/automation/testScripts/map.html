@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html xmlns="https://www.google.com/xhtml">
+<head>
+<title>Google places text box fetch using google maps api</title>
+</head>
+
+<body> 
+
+<script type="text/javascript">
+google.maps.event.addDOMListener(window,'load',initialize);
+function initialize()
+{
+	var input= document.getElementById('txtautocomplete');
+	var autocomplete=new google.maps.places.Autocomplete(input);
+	google.maps.event.addListener(autocomplete,'place_changed',function () {
+		
+		var places =autocomplete.getPlace();
+		var location ="<b>srcLocation:</b>"+place.formatted_address + "<br/>";
+		location += "<b>srcLocation:</b>"+place.geometry.location.A + "<br/>";
+		location += "<b>srcLocation:</b>"+place.geometry.location.F + "<br/>";
+		document.getElementById('lblResult').innerHTML = location
+	});
+	
+			
+	};
+</script>
+<span>Location:</span><input type="text" id="txtautocomplete" style="width:200px" placeholder="Enter Source address"/><br /><br />
+<label id="lblresult"></label>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDcJ1Uv8GDEuCMYifJs5prenm8WsbtI_K0&libraries=places&callback=initMap"></script>
+</body>
+</html>

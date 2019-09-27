@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestNG Test Session Suite">
+	<test name="Different Feature test">
+	<classes>
+		<class name="com.uiFramework.abscompany.automation.testScripts.TestScript1"/>
+		<class name="com.uiFramework.absecompany.automation.testNG.InvocationCount"/>
+		<class name="com.uiFramework.absecompany.automation.testNG.testNGBasics"/>
+		
+	</classes>
+	</test>
+</suite>

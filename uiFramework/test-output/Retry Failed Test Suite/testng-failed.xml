@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Retry Failed Test Suite]">
+  <listeners>
+    <listener class-name="com.uiFramework.absecompany.automation.retryAnalyzer.MyTransformer"/>
+  </listeners>
+  <test thread-count="5" name="Different Feature test(failed)">
+    <classes>
+      <class name="com.uiFramework.abscompany.automation.testScripts.TestScript1">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="testLogin"/>
+          <include name="beforeSuite"/>
+          <include name="beforeMethod"/>
+          <include name="testLogin1"/>
+          <include name="testLogin3"/>
+          <include name="testLogin2"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.uiFramework.abscompany.automation.testScripts.TestScript1 -->
+      <class name="com.uiFramework.absecompany.automation.testNG.testNGBasics">
+        <methods>
+          <include name="deleteAllCookies"/>
+          <include name="setUp"/>
+          <include name="links"/>
+          <include name="logOut"/>
+          <include name="search"/>
+          <include name="login"/>
+          <include name="gmailoption"/>
+          <include name="enterURL"/>
+          <include name="language"/>
+          <include name="googleTitleTest"/>
+          <include name="logoTest"/>
+          <include name="launchBrowser"/>
+          <include name="generateTestReport"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- com.uiFramework.absecompany.automation.testNG.testNGBasics -->
+      <class name="com.uiFramework.absecompany.automation.testNG.InvocationCount">
+        <methods>
+          <include name="test1"/>
+        </methods>
+      </class> <!-- com.uiFramework.absecompany.automation.testNG.InvocationCount -->
+    </classes>
+  </test> <!-- Different Feature test(failed) -->
+</suite> <!-- Failed suite [Retry Failed Test Suite] -->

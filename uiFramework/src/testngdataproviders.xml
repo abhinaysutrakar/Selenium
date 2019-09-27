@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestNG Test Session Suite">
+	<test name="Different Feature test">
+	<parameter name="env" value="QA"/>
+	<parameter name="browser" value="chrome"/>
+	<parameter name="url" value="http://www.irctc.co.in"/>
+	<parameter name="username" value="alittle"/>
+	<parameter name="password" value="alittle"/>
+	<classes>
+		
+		<class name="com.uiFramework.absecompany.automation.testNG.DataProviderTest"/>
+		
+	</classes>
+	</test>
+</suite>
